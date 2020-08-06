@@ -9,7 +9,7 @@ documentation = "https://docs.rs/holochain-anchors"
 license-file = "LICENSE"
 
 [dependencies]
-hdk = "0.0.47-alpha1"
+hdk = "0.0.50-alpha4"
 serde_derive = "^1"
 futures = "^0"
 futures-util = "^0"
